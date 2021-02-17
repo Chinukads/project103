@@ -1,0 +1,17 @@
+.heading{
+    width: 80%;
+    font-size:22px;
+ color:magenta;
+ background-color: cyan;
+
+
+}
+.name_of_object, #result_object_name, #result_object_accuracy{
+    color:magenta;
+
+    
+}
+body{
+    color:magenta;
+ background-color: cyan;
+}
